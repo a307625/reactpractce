@@ -1,3 +1,10 @@
+
+
+build react : https://github.com/facebookincubator/create-react-app
+
+git : https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
